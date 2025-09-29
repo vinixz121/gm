@@ -19,7 +19,7 @@
     "ts-node": "10.9.1"
   },
   "engines": {
-    "node": "18.x"
+    "node": "22.x"
   },
   "overrides": {
     "ts-node": {
